@@ -175,3 +175,7 @@ cython_debug/
 
 # Custom config file with API key
 config.py
+# CatBoost model files
+catboost_info/
+# environment variables file
+Scrapper/config.py
